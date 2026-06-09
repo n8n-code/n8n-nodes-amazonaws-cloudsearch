@@ -53,9 +53,63 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Get build suggesters, Post build suggesters, Get create domain, Post create domain, Get define analysis scheme, Post define analysis scheme, Get define expression, Post define expression, Get define index field, Post define index field, Get define suggester, Post define suggester, Get delete analysis scheme, Post delete analysis scheme, Get delete domain, Post delete domain, Get delete expression, Post delete expression, Get delete index field, Post delete index field, Get delete suggester, Post delete suggester, Get describe analysis schemes, Post describe analysis schemes, Get describe availability options, Post describe availability options, Get describe domain endpoint options, Post describe domain endpoint options, Get describe domains, Post describe domains, Get describe expressions, Post describe expressions, Get describe index fields, Post describe index fields, Get describe scaling parameters, Post describe scaling parameters, Get describe service access policies, Post describe service access policies, Get describe suggesters, Post describe suggesters, Get index documents, Post index documents, Get list domain names, Post list domain names, Get update availability options, Post update availability options, Get update domain endpoint options, Post update domain endpoint options, Get update scaling parameters, Post update scaling parameters, Get update service access policies, Post update service access policies |
+<details>
+<summary><b>Default</b> (52 operations)</summary>
+
+- Get Build Suggesters
+- Post Build Suggesters
+- Get Create Domain
+- Post Create Domain
+- Get Define Analysis Scheme
+- Post Define Analysis Scheme
+- Get Define Expression
+- Post Define Expression
+- Get Define Index Field
+- Post Define Index Field
+- Get Define Suggester
+- Post Define Suggester
+- Get Delete Analysis Scheme
+- Post Delete Analysis Scheme
+- Get Delete Domain
+- Post Delete Domain
+- Get Delete Expression
+- Post Delete Expression
+- Get Delete Index Field
+- Post Delete Index Field
+- Get Delete Suggester
+- Post Delete Suggester
+- Get Describe Analysis Schemes
+- Post Describe Analysis Schemes
+- Get Describe Availability Options
+- Post Describe Availability Options
+- Get Describe Domain Endpoint Options
+- Post Describe Domain Endpoint Options
+- Get Describe Domains
+- Post Describe Domains
+- Get Describe Expressions
+- Post Describe Expressions
+- Get Describe Index Fields
+- Post Describe Index Fields
+- Get Describe Scaling Parameters
+- Post Describe Scaling Parameters
+- Get Describe Service Access Policies
+- Post Describe Service Access Policies
+- Get Describe Suggesters
+- Post Describe Suggesters
+- Get Index Documents
+- Post Index Documents
+- Get List Domain Names
+- Post List Domain Names
+- Get Update Availability Options
+- Post Update Availability Options
+- Get Update Domain Endpoint Options
+- Post Update Domain Endpoint Options
+- Get Update Scaling Parameters
+- Post Update Scaling Parameters
+- Get Update Service Access Policies
+- Post Update Service Access Policies
+
+</details>
 
 ---
 

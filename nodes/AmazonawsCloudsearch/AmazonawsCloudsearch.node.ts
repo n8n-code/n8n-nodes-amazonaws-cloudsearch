@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class AmazonawsCloudsearch implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'amazonaws-cloudsearch',
+		displayName: 'Amazonaws Cloudsearch',
 		name: 'N8nDevAmazonawsCloudsearch',
 		icon: { light: 'file:./amazonaws-cloudsearch.png', dark: 'file:./amazonaws-cloudsearch.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'Amazon CloudSearch Configuration Service You use the Amazon CloudSearch configuration service to create, configure, and manage search domains. Configuration service requests..',
-		defaults: { name: 'amazonaws-cloudsearch' },
+		description: 'Amazon CloudSearch Configuration Service manages search domains.',
+		defaults: { name: 'Amazonaws Cloudsearch' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

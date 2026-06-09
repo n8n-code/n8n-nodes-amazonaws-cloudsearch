@@ -8,7 +8,7 @@ import type {
 export class AmazonawsCloudsearchApi implements ICredentialType {
 	name = 'N8nDevAmazonawsCloudsearchApi';
 
-	displayName = 'amazonaws-cloudsearch API';
+	displayName = 'Amazonaws Cloudsearch API';
 
 	icon: Icon = { light: 'file:../nodes/AmazonawsCloudsearch/amazonaws-cloudsearch.png', dark: 'file:../nodes/AmazonawsCloudsearch/amazonaws-cloudsearch.dark.png' };
 
@@ -22,7 +22,7 @@ export class AmazonawsCloudsearchApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'http://cloudsearch.us-east-1.amazonaws.com',
-			description: 'The base URL of your amazonaws-cloudsearch API server',
+			description: 'The base URL of your Amazonaws Cloudsearch API server',
 		},
 		{
 			displayName: 'API Key',
